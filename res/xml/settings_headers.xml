@@ -128,6 +128,12 @@
     <header android:id="@+id/personal_section"
         android:title="@string/header_category_personal" />
 
+    <!-- TRDS -->
+    <header
+        android:id="@+id/trds_settings"
+        android:icon="@drawable/ic_settings_trds"
+        android:title="@string/trds_settings_title" />
+
     <!-- HALO -->
     <header
         android:id="@+id/halo_settings"
