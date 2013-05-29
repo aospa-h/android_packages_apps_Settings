@@ -4579,6 +4579,8 @@
     <!-- Themes settings  -->
     <string name="themes_settings_title">Themes</string>
 
+    <string name="performance_title">Kernel Mods</string>
+
     <!-- TRDS Settings -->
     <string name="trds_settings_title">Dark PA</string>
 </resources>
