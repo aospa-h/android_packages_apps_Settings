@@ -765,6 +765,7 @@ public class Settings extends PreferenceActivity
         }
         if (header.id == R.id.trds_settings) {
             mTRDSSwitch.toggle();
+        }
     }
 
     @Override
