@@ -73,4 +73,10 @@
                 android:summary="@string/adaptive_backlight_summary"
                 android:defaultValue="true" />
 
+        <CheckBoxPreference
+            android:key="fade_animation"
+            android:title="@string/fade_animation"
+            android:summary="@string/fade_animation_summary"
+            android:defaultValue="false" />
+
 </PreferenceScreen>
