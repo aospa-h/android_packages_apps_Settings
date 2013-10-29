@@ -4586,4 +4586,7 @@
 
     <!-- Themes settings  -->
     <string name="themes_settings_title">Themes</string>
+
+    <!-- TRDS Settings -->
+    <string name="trds_settings_title">Dark PA</string>
 </resources>
